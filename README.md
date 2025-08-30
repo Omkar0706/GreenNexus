@@ -58,7 +58,7 @@ The Green Score Fintech Project involves developing a machine learning model tha
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Sanyam753/GreenNexus
+git clone https://github.com/Omkar0706/GreenNexus
 cd greennexus
 ```
 
@@ -116,8 +116,8 @@ This project is licensed under the MIT License.
 
 For any questions or inquiries, please contact:
 
-- Sanyam Sankhala - [sanyamsankhala13@gmail.com](mailto:sanyamsankhala13@gmail.com)
-- GitHub - [Sanyam753](https://github.com/Sanyam753)
+- Sanyam Sankhala - [omkarchoudhury0706@gmail.com](mailto:omkarchoudhury0706@gmail.com)
+- GitHub - [Omkar0706](https://github.com/Omkar0706)
 
 ---
 
